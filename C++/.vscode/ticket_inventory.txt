@@ -1,0 +1,3 @@
+Pushpa 1 100 50
+Kali 2 20 26
+Kali 3 45 35

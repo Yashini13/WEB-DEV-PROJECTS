@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: url("./bg-img.png");
+    background-size: cover;
+}
+
+#board {
+    width: 540px;
+    height: 540px;
+    /* background-color: green; */
+
+    margin-left: 5px;
+    display: flex;
+    flex-wrap: wrap;
+
+    background: url("./g2.avif");
+    background-size: cover;
+    border: 3px solid white;
+    border-radius: 25px;
+}
+
+#board div {
+    /* board = 540 x 540, divide into 3x3 tiles --> 180 x 180 per div */
+    width: 180px; 
+    height: 180px;
+    background-image: url("./—Pngtree—illustration\ of\ ground\ hole_10805264.png");
+    background-size: cover;
+    border-radius: 2px;
+}
+
+#board div img {
+    /* all img tags inside tiles */
+    width: 100px;
+    height: 100px;
+
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}

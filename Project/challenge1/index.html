@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+        font-family: Arial;
+      }
+
+      /* Style the tab */
+      .tab {
+        overflow: hidden;
+        border: 1px solid #ccc;
+        background-color: #f1f1f1;
+      }
+
+      /* Style the buttons inside the tab */
+      .tab button {
+        background-color: inherit;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 14px 16px;
+        transition: 0.3s;
+        font-size: 17px;
+      }
+
+      /* Change background color of buttons on hover */
+      .tab button:hover {
+        background-color: #ddd;
+      }
+
+      /* Create an active/current tablink class */
+      .tab button.active {
+        background-color: #ccc;
+      }
+
+      /* Style the tab content */
+      .tabcontent {
+        display: none;
+        padding: 6px 12px;
+        border: 1px solid #ccc;
+        border-top: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="background-color: pink">
+      <br />
+      <h1 style="text-align: center">
+        <img
+          src="images/JSPM-logo.jpg"
+          alt=""
+          style="width: 60px; align-content: start"
+        />
+        JSPM RAJARSHI SHAHU COLLEGE OF ENGINEERING
+        <img
+          src="images/RSCOE_logo_latest-removebg-preview.png"
+          alt=""
+          style="width: 72px; align-content: start"
+        />
+      </h1>
+
+      <h2 style="text-align: center">Chemistry Vlab</h2>
+      &nbsp;
+    </div>
+    <br /><br /><br />
+    <div class="tab">
+      <button class="tablinks" onclick="openCity(event, 'London')">Aim</button>
+      <button class="tablinks" onclick="openCity(event, 'Paris')">
+        Litmus test
+      </button>
+      <button class="tablinks" onclick="openCity(event, 'Tokyo')">
+        Still under construction
+      </button>
+    </div>
+
+    <div id="London" class="tabcontent">
+      <h3></h3>
+    </div>
+
+    <div id="Paris" class="tabcontent">
+      <h3></h3>
+      <canvas
+        id="canvas_activity2"
+        width="2000px"
+        height="600px"
+        style="background-color: bisque; cursor: crosshair"
+        ><img src="./images/flask.png" alt=""
+      /></canvas>
+    </div>
+
+    <div id="Tokyo" class="tabcontent">
+      <h3>still under construction</h3>
+      <canvas
+        id="canvas_activity1"
+        width="2000px"
+        height="600px"
+        style="background-color: bisque; cursor: crosshair"
+      ></canvas>
+    </div>
+
+    <script>
+      function openCity(evt, cityName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+          tabcontent[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+          tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(cityName).style.display = "block";
+        evt.currentTarget.className += " active";
+      }
+    </script>
+    <script src="./js/scene.js"></script>
+    <script src="./js/canvas_size.js"></script>
+    <script src="./js/main.js"></script>
+    <script src="./js/activity.js"></script>
+  </body>
+</html>
