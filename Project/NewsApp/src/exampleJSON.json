@@ -1,0 +1,212 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": null, "name": "The Japan Times" },
+      "author": "The Japan Times",
+      "title": "Woman rescued five days after Japan quake, as storms complicate relief efforts - The Japan Times",
+      "description": "The against-all-odds rescue offer a brief glimpse of hope, but snow and storms were expected to complicate relief efforts in the coming days.",
+      "url": "https://www.japantimes.co.jp/news/2024/01/07/japan/ishikawa-quake-death-toll-missing/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/07/273277.jpg",
+      "publishedAt": "2024-01-07T06:11:15Z",
+      "content": "Suzu, Ishikawa Pref. A woman in her 90s trapped for five days under the rubble by a huge earthquake in Ishikawa Prefecture was rescued against the odds, but snow and storms were expected to complicat… [+314 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Jared Malsin, William Mauldin",
+      "title": "Hezbollah Fires Rocket Barrage Into Israel as Blinken Mounts New De-Escalation Push - The Wall Street Journal",
+      "description": "Attacks are flaring across the Middle East as tensions from the war in Gaza deepen",
+      "url": "https://www.wsj.com/world/middle-east/hezbollah-fires-rocket-barrage-into-israel-as-blinken-mounts-new-de-escalation-push-8199717e",
+      "urlToImage": "https://images.wsj.net/im-909015/social",
+      "publishedAt": "2024-01-07T05:24:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Lloyd Lee, Hannah Getahun",
+      "title": "Musk was 'under the influence' during NYT interview: report - Business Insider",
+      "description": "Elon Musk's 2018 tweet, claiming that he wanted to take Tesla private, caused some board members to become concerned he was on drugs, WSJ reported.",
+      "url": "https://www.businessinsider.com/tesla-board-members-elon-musk-tweeting-420-drugs-wsj-2024-1",
+      "urlToImage": "https://i.insider.com/659a21581c5c7b8c9a0e9e90?width=1200&format=jpeg",
+      "publishedAt": "2024-01-07T04:48:00Z",
+      "content": "Tesla board members were privately concerned Elon Musk might have been on drugs when he tweeted he was considering taking the EV company private in 2018, sources familiar with the discussions told Th… [+2486 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "DJ Bien-Aime, Stephen Holder",
+      "title": "C.J. Stroud, Texans hang on to beat Colts, clinch playoff berth - ESPN",
+      "description": "Stroud threw two TDs, and Houston's defense stiffened on a fourth-down stop late in the fourth quarter.",
+      "url": "https://www.espn.com/nfl/story/_/id/39255628/cj-stroud-texans-colts-nfl-playoffs",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0107%2Fr1274371_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-01-07T04:33:00Z",
+      "content": "INDIANAPOLIS -- Two teams that combined for seven wins last season proved how far ahead of schedule their rebuilds are by playing for a playoff berth Saturday night, and the Houston Texans didn't hav… [+4329 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Edward Segarra, Anika Reed",
+      "title": "Halle Bailey baby: 'Little Mermaid' star welcomes first child with DDG - USA TODAY",
+      "description": "\"Little Mermaid\" actress Halle Bailey has welcomed her first child, a baby named Halo, with boyfriend DDG.",
+      "url": "https://www.usatoday.com/story/entertainment/celebrities/2024/01/06/halle-bailey-baby-ddg-first-child-halo/71644576007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/09/22/USAT/70932280007-gty-1695688909.jpg?crop=2464,1386,x316,y677&width=2464&height=1386&format=pjpg&auto=webp",
+      "publishedAt": "2024-01-07T04:23:56Z",
+      "content": "Halle Bailey is officially part of that mom world.\r\n\"The Little Mermaid\" star welcomed her first child with boyfriend and rapper DDG, the new parents revealed on Instagram late Saturday.\r\nBailey shar… [+2366 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hollywood Reporter" },
+      "author": "Carolyn Giardina, Kirsten Chuba",
+      "title": "2023 Creative Arts Emmys Winners List Night One – The Hollywood Reporter - Hollywood Reporter",
+      "description": "'The White Lotus,' 'The Bear' and 'Wednesday' also collected four awards apiece at Saturday's presentation.",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/2023-creative-arts-emmys-winners-list-night-one-1235780689/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/01/The-Last-of-Us-The-White-Lotus-The-Bear-and-Wednesday-.jpg?w=1024",
+      "publishedAt": "2024-01-07T04:11:41Z",
+      "content": "HBO’s post-apocalyptic drama The Last of Us topped night one of the 2023 Creative Arts Emmys presentation with eight awards, in the categories for guest actor, which was presented to Nick Offerman fo… [+57553 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "As Iowa caucuses loom, Trump urges his supporters to 'vote, vote, vote' - POLITICO",
+      "description": "The GOP frontrunner’s series of events comes as his campaign seeks to turn out thousands of first-time caucus-goers.",
+      "url": "https://www.politico.com/news/2024/01/06/as-iowa-caucuses-loom-trump-urges-supporters-to-turn-out-00134181",
+      "urlToImage": "https://static.politico.com/71/d9/74f8cbc44268837c30c05cd693f7/election-2024-trump-01167.jpg",
+      "publishedAt": "2024-01-07T04:02:12Z",
+      "content": "Trumps series of commit-to-caucus events comes as his campaign seeks to turn out thousands of first-time caucus-goers on the former presidents behalf an effort to tamp down the momentum of other GOP … [+2640 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Fox Business",
+      "title": "Initial US employment reports overstated by 439,000 jobs in 2023 - New York Post ",
+      "description": "The government quietly erased 439,000 jobs through November 2023, a closer look at the numbers from the Bureau of Labor Statistics shows.",
+      "url": "https://nypost.com/2024/01/06/business/initial-us-employment-reports-overstated-by-439000-jobs-in-2023/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/initial-us-employment-reports-overstated-74496505.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-01-07T03:18:00Z",
+      "content": "Theres something wrong with previous U.S. jobs reports.\r\nThe government quietly erased 439,000 jobs through November 2023, a closer look at the numbers from the Bureau of Labor Statistics shows. \r\nTh… [+3981 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KTLA Los Angeles" },
+      "author": "Jose Franco",
+      "title": "2 dead, 9 injured in 35-vehicle pile up along I-5 west of Bakersfield - KTLA Los Angeles",
+      "description": "BAKERSFIELD, Calif. (KGET) — Two people were killed and nine others were hospitalized after a 35-vehicle pile up Saturday morning on a foggy portion of Interstate 5 west of Bakersfield, Kern County fire officials said. A closure remains in place Saturday nigh…",
+      "url": "https://ktla.com/news/2-dead-9-injured-in-35-vehicle-pile-up-along-i-5-west-of-bakersfield/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/01/I5-Millux-Rd-Pile-Up-010624.png?w=1280",
+      "publishedAt": "2024-01-07T03:17:26Z",
+      "content": "BAKERSFIELD, Calif. (KGET) — Two people were killed and nine others were hospitalized after a 35-vehicle pile up Saturday morning on a foggy portion of Interstate 5 west of Bakersfield, Kern County f… [+1032 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "Aniruddha Dhar",
+      "title": "Bangladesh PM Sheikh Hasina's message to India: ‘When we lost our family…’ - Hindustan Times",
+      "description": "Bangladesh elections: Sheikh Hasina's message to India comes as Bangladeshi began voting in general elections with the PM set to win a fourth straight term. | World News",
+      "url": "https://www.hindustantimes.com/world-news/bangladesh-elections-pm-sheikh-hasinas-message-for-india-after-1975-when-we-lost-our-family-101704594957135.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/01/07/1600x900/Bangladesh-Elections-1_1704596546824_1704596592257.jpg",
+      "publishedAt": "2024-01-07T03:05:59Z",
+      "content": "Bangladesh Prime Minister Sheikh Hasina on Sunday thanked India for supporting during the 1971 liberation war against Pakistan and giving \"shelter to her family in 1975 when many of her family member… [+3473 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GSMArena.com" },
+      "author": "Ro",
+      "title": "Samsung Galaxy S24 Ultra live photos leak ahead of launch - GSMArena.com news - GSMArena.com",
+      "description": "The device shows up in some sort of gold/yellow color. As the Galaxy S24 Unpacked event on January 17 approaches, the intensity of leaks increases. The...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s24_ultra_live_photos_leak_ahead_of_launch-news-61135.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/01/galaxy-s24-ultra-live-photos-gold-color/-952x498w6/gsmarena_001.jpg",
+      "publishedAt": "2024-01-07T02:03:01Z",
+      "content": "As the Galaxy S24 Unpacked event on January 17 approaches, the intensity of leaks increases. The latest one comes in the form of two leaked live photos of what appears to be the Galaxy S24 Ultra with… [+568 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters.com",
+      "title": "U.S. spot bitcoin ETFs could win approval next week after last-minute application updates - Reuters.com",
+      "description": null,
+      "url": "https://www.reuters.com/markets/us/us-spot-bitcoin-etfs-could-win-approval-next-week-after-last-minute-application-2024-01-06/",
+      "urlToImage": null,
+      "publishedAt": "2024-01-07T02:01:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Fox News",
+      "title": "News anchor slammed after telling teen gamer who beat Tetris for the first time ever to 'go outside' - New York Post ",
+      "description": "Social media users tore into a Sky News anchor after she made a dismissive comment to a 13-year-old gamer in her report on him being the first ever person to beat Nintendo’s version of “Tetri…",
+      "url": "https://nypost.com/2024/01/06/media/uk-news-anchor-ripped-for-telling-teenage-tetris-record-breaker-to-go-outside-and-get-some-fresh-air/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/beating-tetris-life-goal-go-74492821.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-01-07T01:43:00Z",
+      "content": "Social media users tore into a Sky News anchor this week after she made a dismissive comment to a 13-year-old gamer in her report on him being the first ever person to beat Nintendos version of “Tetr… [+2217 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Athletic" },
+      "author": "Larry Holder",
+      "title": "NFL Week 18 playoff scenarios: Texans clinch bid, Steelers need help following Saturday wins - The Athletic",
+      "description": "A current look at the postseason clinching scenarios following wins by the Steelers and Texans on Saturday.",
+      "url": "https://theathletic.com/5183302/2024/01/06/nfl-playoff-scenarios-week-18/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/01/06232708/GettyImages-1913520182-scaled.jpg",
+      "publishedAt": "2024-01-07T01:31:15Z",
+      "content": "The Houston Texans clinched at least a wild-card berth and the Pittsburgh Steelersbeefed up their playoff chances with their respective wins on Saturday. But both teams are still among those yet to h… [+3579 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WLS-TV" },
+      "author": null,
+      "title": "Christian Oliver's former wife Jessica Klepser pays tribute to actor, young daughters after fatal plane crash in eastern Caribbean - WLS-TV",
+      "description": "The former wife of Hollywood actor Christian Oliver paid a mournful tribute to him and their two young daughters after the girls and their father were killed in a small plane crash.",
+      "url": "https://abc7chicago.com/christian-oliver-wife-jessica-klepser-plane-crash/14288814/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14281009_christian-oliver-bw-TN-GETTY-IMAGES-TN-img.jpg?w=1600",
+      "publishedAt": "2024-01-07T01:11:09Z",
+      "content": "LOS ANGELES -- The former wife of Hollywood actor Christian Oliver has paid a mournful tribute to him and their two young daughters after the girls and their father were killed in a small plane crash… [+3552 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Patience Haggin, Allison Pohle",
+      "title": "'Is It OK if I Hold Your Hand?': Inside the Cabin of Alaska Airlines Flight 1282 - The Wall Street Journal",
+      "description": "Passengers recount harrowing experience after a chunk of the plane broke off midair",
+      "url": "https://www.wsj.com/us-news/theres-a-hole-in-row-26-inside-the-cabin-of-alaska-airlines-flight-1282-3f55608e",
+      "urlToImage": "https://images.wsj.net/im-909059/social",
+      "publishedAt": "2024-01-07T00:47:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "WMUR Manchester" },
+      "author": "Jacqueline Thomas",
+      "title": "Most of New Hampshire could see several inches of snow by Sunday evening - WMUR Manchester",
+      "description": "Several inches of snow are likely in New Hampshire as a major winter storm moves through the state.",
+      "url": "https://www.wmur.com/article/new-hampshire-snow-forecast-1624/46302255",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/dynamic/wmur/WEB_RADAR.jpg?crop=1xw:1xh;center,top&t=2024-01-07T04:34:53.358001Z&resize=1200:*",
+      "publishedAt": "2024-01-07T00:33:00Z",
+      "content": "MANCHESTER, N.H. —Several inches of snow are likely in New Hampshire as a major winter storm moves through the state.\r\nThe National Weather Service has issued a winter storm warning for Sullivan, Che… [+3095 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Louis Casiano, Liz Friden",
+      "title": "GOP senators outraged over 'shocking breakdown' related to Defense Sec Lloyd Austin's secret hospitalization - Fox News",
+      "description": "U.S. Sen. Tom Cotton, R-Ark., wants Defense Secretary Lloyd Austin to explain why top officials were not told he was hospitalized until three days later, and Sen. Roger Wicker has called for a \"full accounting of the facts.\"",
+      "url": "https://www.foxnews.com/politics/senator-tom-cotton-outraged-over-shocking-breakdown-related-defense-secretary-lloyd-austin-hospitalization",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/AP23074703555458.jpg",
+      "publishedAt": "2024-01-06T23:55:00Z",
+      "content": "Read this article for free!\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you are agreeing… [+5946 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "How to prepare for the winter storm hitting western Massachusetts - WWLP-22News",
+      "description": "A Winter Storm Warning is in effect and is expected to bring a plowable snowfall to the area.Stay informed about Massachusetts news, weather, breaking news a...",
+      "url": "https://www.youtube.com/watch?v=Zg-NGzviGvk",
+      "urlToImage": "https://i.ytimg.com/vi/Zg-NGzviGvk/maxresdefault.jpg",
+      "publishedAt": "2024-01-06T23:26:09Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "The Action Network" },
+      "author": null,
+      "title": "Gardner Minshew Player Prop Pick for Colts vs Texans in NFL Week 18 - The Action Network",
+      "description": null,
+      "url": "https://www.actionnetwork.com/nfl/gardner-minshew-player-prop-pick-for-colts-vs-texans-in-nfl-week-18",
+      "urlToImage": null,
+      "publishedAt": "2024-01-06T22:53:00Z",
+      "content": "{\"en\":{\"access_disabled\":\"Internet Access has been disabled on this device\",\"code\":\"Code\",\"custom_block_list\":\"it is on a custom block list\",\"email\":\"Email\",\"file_ext_blocked\":\"the file extension is … [+4347 chars]"
+    }
+  ]
+}
